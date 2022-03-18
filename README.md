@@ -4,10 +4,10 @@
 ### Projeto Inicial de Navegação, Cálculo e Validação
 Projeto feito no Android Studio, utilizando a linguagem de programação Kotlin.
 
-**Desenvolvedores:** 
-[Cristine Acocella Vasconcellos](https://jupyter.org/install)
-[Jonathan Felix](https://jupyter.org/install)
-[Marcos Vinicius Ferreira](https://jupyter.org/install) 
+### Desenvolvedores: 
+* [Cristine Acocella Vasconcellos](https://github.com/cristineacocella/cp1_IA)
+* [Jonathan Felix](https://github.com/jhowfelix)
+* [Marcos Vinicius Ferreira](https://github.com/marcosnaofazisso) 
 
 ## Objetivo:
 Projeto feito para a avaliação da matéria de Hybrid Mobile App Development do 2 ano da FIAP. 
