@@ -21,7 +21,7 @@ Deve acionar outra activity para calcular o valor total de uma conta telefônica
 * Integrantes:
 O botão deverá apresentar um AlertDialog contendo o nome dos desenvolvedores do projeto.
 
-<img src="./img/image.gi" width="550">
+<img src="/img/image.gif" width="550">
 
 ## Como usar o programa
 * Você deverá utilizar a ferramenta Android Studio para executar a aplicação.
